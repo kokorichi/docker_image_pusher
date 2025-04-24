@@ -5,4 +5,4 @@ xhofe/alist:latest
 
 jeessy/ddns-go
 portainer/portainer
-AlistGo/alist
+
